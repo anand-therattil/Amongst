@@ -1,0 +1,1 @@
+pip install streamlit streamlit-mic-recorder pyannote.audio scipy numpy
