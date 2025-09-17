@@ -15,3 +15,6 @@ Another Newton formula to execute then enjoy
 streamlit run speaker_recognition.py                  
 ```
 
+
+Diarization --> 
+HUBERT --> Voice cloning trained can detect speaker prosody to detect feature such as 
