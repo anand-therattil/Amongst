@@ -3,3 +3,5 @@ streamlit-mic-recorder
 pyannote.audio 
 scipy 
 numpy
+plotly 
+pandas
